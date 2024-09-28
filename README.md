@@ -59,7 +59,7 @@ contract DinarNFT is ERC721A
 ```
 
 - **Name**: ROCKE 
-- **Symbol**: DNR
+- **Symbol**: NER
 
 ### Maximum Quantity of Tokens
 
